@@ -82,4 +82,6 @@ interface GigabitEthernet0/0/0
 vlan 50
 name DHCP
 interface vlan 50
-ip address 192.168.50.254 255.255.255.248
+ip address 192.168.50.1 255.255.255.248
+
+# ERREUR DHCP
